@@ -1,0 +1,31 @@
+﻿body {
+    padding-top: 55px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.orange{
+    color: orange;
+}
+.green {
+    color: green;
+}
+
+.outlined{
+    text-decoration: line-through;
+}
+.red-text{
+    color: red;
+}
+.green-text{
+    color: green;
+}

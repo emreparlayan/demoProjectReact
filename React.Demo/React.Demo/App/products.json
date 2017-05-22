@@ -1,0 +1,22 @@
+﻿{
+  "name": "Adidas Ayakkabi",
+  "thumbnail_image": "https://www.sneakerfreaker.com/wp-content/uploads/2014/10/Adidas-ZX-Flux-NPS-Core-Burgundy-2-640x426.jpg",
+  "summary": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+  "votes": [
+    {
+      "user_id": 12,
+      "vote_score": 9
+    },
+    {
+      "user_id": 45,
+      "vote_score": 9
+    }
+  ],
+  "images": [
+    "https://feo.cdnrnd.com/ayakkabidunyasi/mnresize/300/300/Content/media/ProductImg/original/636277871474159648.jpg",
+    "https://mcdn01.gittigidiyor.net/27671/tn30/276711482_tn30_0.jpg"
+  ],
+  "regular_price": 219.90,
+  "discount_price": 199.90,
+  "comments_count": 12
+}
